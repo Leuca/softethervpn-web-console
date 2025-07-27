@@ -1,5 +1,5 @@
-%global V5_VERSION 5.02.5180
-%global V4_VERSION 4.43-9799-beta
+%global V5_VERSION 5.2.5188
+%global V4_VERSION 4.44-9807-rtm
 
 %global ver5 %(echo "%{V5_VERSION}" | cut -d"." -f 1,2)
 %global ver4 %(echo "%{V4_VERSION}" | cut -d"-" -f 1)
